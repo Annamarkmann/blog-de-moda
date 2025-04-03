@@ -1,0 +1,27 @@
+body{
+    background-color: #b6b6b6
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: #868686;
+    font-weight: bold;
+}
+
+text {
+text-align: center;
+font-size: 25px;
+}
+
+p {
+text-align: center;
+font-size: 25px;
+}
+
+img {
+    align-items: center;
+    width: 500px;
+    height: 500px;
+
+}
