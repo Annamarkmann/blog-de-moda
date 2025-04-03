@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <html lang = "pt-br">
+        <meta charset="utf-8">
+    <style>
+      
+    </style>
+    <link rel="stylesheet" href="style.css">
+
+
+ <title> FASHION </title>
+</head>
+
+<body>
+    
+    <h1> moda atualmente </h1>
+    
+
+ <text> A moda atualmente é uma expressão diversificada que reflete individualidade e inclusão. 
+    Com as redes sociais, tendências se espalham rapidamente, misturando estilos de diferentes culturas </text>
+
+    <div>
+
+ <p> Aqui, você encontrará as últimas tendências, dicas de estilo e inspirações para todas as ocasiões. 
+    Explore nossas coleções, descubra novos designers e fique por dentro das novidades do mundo fashion. 
+    Junte-se a nós e transforme seu guarda-roupa em uma verdadeira obra de arte!</p>
+
+    </div>
+
+<img src="https://i.pinimg.com/736x/65/cb/e6/65cbe6334ca371ea65d7ba609adb51fa.jpg" >
+
+</body>
+
+
+</html>
